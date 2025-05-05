@@ -1,54 +1,54 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Lóris Asahi | Portfólio</title>
-  <link rel="stylesheet" href="style.css" />
-</head>
-<body>
-  <main class="container">
-    <h1>👋 Olá! Bem-vindo(a) ao meu perfil</h1>
-    <h2>Me chamo <span class="highlight">Lóris Asahi 🌸</span></h2>
-    <p>
-      Sou apaixonado(a) por tecnologia e desenvolvimento!<br />
-      Atualmente moro no Brasil 🇧🇷 e estou em constante evolução como profissional da área de <strong>Desenvolvimento Web</strong>.
-    </p>
-    <p>
-      No momento, estou aprendendo <strong>Python</strong>, <strong>TypeScript</strong> e <strong>Node.js</strong> 🚀.
-    </p>
+# 👋 Olá! Bem-vindo(a) ao meu perfil no GitHub!
 
-    <section>
-      <h3>🛠️ Tecnologias que domino</h3>
-      <div class="tech-icons">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" />
-      </div>
-    </section>
+## Me chamo **Lóris Asahi** 🌸
 
-    <section>
-      <h3>📚 Atualmente estudando</h3>
-      <div class="tech-icons">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" />
-      </div>
-    </section>
+Sou apaixonado(a) por tecnologia e desenvolvimento!  
+Atualmente moro no Brasil 🇧🇷 e estou em constante evolução como profissional da área de **[sua ocupação aqui — ex: Desenvolvedor(a) Front-end | Estudante de Ciência da Computação]**.  
+No momento, estou me dedicando ao aprendizado de tecnologias como **React**, **TypeScript** e **Node.js** 🚀.
 
-    <section>
-      <h3>📬 Contatos</h3>
-      <div class="contacts">
-        <a href="https://instagram.com/seu-usuario-aqui" target="_blank">Instagram</a>
-        <a href="https://www.linkedin.com/in/seu-usuario-aqui" target="_blank">LinkedIn</a>
-        <a href="mailto:seu-email@gmail.com">Gmail</a>
-      </div>
-    </section>
+---
 
-    <footer>
-      <p>💡 "A tecnologia move o mundo — Steve Jobs"</p>
-    </footer>
-  </main>
-</body>
-</html>
+## 🛠️ Tecnologias e Ferramentas que domino:
+
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+</div>
+
+---
+
+## 📚 Atualmente estudando:
+
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+</div>
+---
+
+## 📬 Contatos:
+
+<div>
+  <a href="https://instagram.com/seu-usuario-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-usuario-aqui" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href = "mailto:seu-email@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+## 🐍 Snake comendo suas contribuições:
+
+![Snake animation](https://github.com/LorisAsahi/LorisAsahi/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+💡 _"A tecnologia move o mundo — Steve Jobs"_
