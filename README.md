@@ -31,10 +31,10 @@ No momento, estou me dedicando ao aprendizado de tecnologias como **React**, **T
   <a href="https://www.instagram.com/loris.asahi/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/seu-usuario-aqui" target="_blank">
+  <a href="https://www.linkedin.com/in/l%C3%B3ris-asahi-91853b22a/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href = "mailto:seu-email@gmail.com">
+  <a href = "mailto:loris.asahi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
